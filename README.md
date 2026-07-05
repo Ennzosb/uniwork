@@ -2,7 +2,7 @@ UniWork
 
 Plataforma de empleo orientada exclusivamente a estudiantes universitarios y terciarios de Argentina.
 
-Escuela Da Vinci. MAteria Seminario Final.
+Escuela Da Vinci. Materia Seminario Final.
 Alumno: Enzo Seimandi Bissi.
 
 
